@@ -1,0 +1,42 @@
+Menu:
+Appetizer:
+Spinach Artichoke Dip  Price: $0.0 Profit: $0.0
+Mac n Cheese Bites  Price: $0.0 Profit: $0.0
+Mozzarella Sticks  Price: $0.0 Profit: $0.0
+Knight Nachos  Price: $0.0 Profit: $0.0
+
+Salad:
+Caesar Salad  Price: $0.0 Profit: $0.0
+Scarlet Special Salad  Price: $0.0 Profit: $0.0
+House Salad  Price: $0.0 Profit: $0.0
+
+Entree:
+Fiesta Quesadillas  Price: $0.0 Profit: $0.0
+Rutgers Passion Penne  Price: $0.0 Profit: $0.0
+The RU Burger  Price: $0.0 Profit: $0.0
+Scarlet's Sandwich  Price: $0.0 Profit: $0.0
+Classic Chicken Sandwich  Price: $0.0 Profit: $0.0
+
+Sides:
+Fries  Price: $0.0 Profit: $0.0
+Broccoli With Cheese  Price: $0.0 Profit: $0.0
+Roasted Veggies  Price: $0.0 Profit: $0.0
+Cheddar Biscuits  Price: $0.0 Profit: $0.0
+
+Dessert:
+The Scarlet Brownie Sundae  Price: $0.0 Profit: $0.0
+RU & OG Cheesecake  Price: $0.0 Profit: $0.0
+
+Drink:
+Water  Price: $0.0 Profit: $0.0
+Coca Cola  Price: $0.0 Profit: $0.0
+Sprite  Price: $0.0 Profit: $0.0
+Kiwi Knight  Price: $0.0 Profit: $0.0
+Blue Raspberry Scarlet Pop  Price: $0.0 Profit: $0.0
+
+Stock:
+Empty - stockVar is null.
+Transactions:
+Empty - transactionVar is null.
+Tables and Parties:
+Empty -- leftQueueVar is empty

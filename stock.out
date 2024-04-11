@@ -1,0 +1,121 @@
+Menu:
+Appetizer:
+Spinach Artichoke Dip  Price: $24.13 Profit: $4.02
+Mac n Cheese Bites  Price: $16.67 Profit: $2.78
+Mozzarella Sticks  Price: $12.05 Profit: $2.01
+Knight Nachos  Price: $47.15 Profit: $7.86
+
+Salad:
+Caesar Salad  Price: $11.69 Profit: $1.95
+Scarlet Special Salad  Price: $23.58 Profit: $3.93
+House Salad  Price: $27.1 Profit: $4.52
+
+Entree:
+Fiesta Quesadillas  Price: $25.5 Profit: $4.25
+Rutgers Passion Penne  Price: $23.16 Profit: $3.86
+The RU Burger  Price: $33.23 Profit: $5.54
+Scarlet's Sandwich  Price: $40.0 Profit: $6.67
+Classic Chicken Sandwich  Price: $25.72 Profit: $4.29
+
+Sides:
+Fries  Price: $13.21 Profit: $2.2
+Broccoli With Cheese  Price: $8.76 Profit: $1.46
+Roasted Veggies  Price: $34.52 Profit: $5.75
+Cheddar Biscuits  Price: $24.26 Profit: $4.04
+
+Dessert:
+The Scarlet Brownie Sundae  Price: $23.44 Profit: $3.91
+RU & OG Cheesecake  Price: $15.79 Profit: $2.63
+
+Drink:
+Water  Price: $3.23 Profit: $0.54
+Coca Cola  Price: $3.17 Profit: $0.53
+Sprite  Price: $2.83 Profit: $0.47
+Kiwi Knight  Price: $8.58 Profit: $1.43
+Blue Raspberry Scarlet Pop  Price: $10.37 Profit: $1.73
+
+Stock:
+Index 0
+Blue Raspberry Syrup  ID: 150 Price: 3.75 Stock Level: 30
+Brownie  ID: 140 Price: 4.29 Stock Level: 35
+Salt  ID: 130 Price: 3.64 Stock Level: 20
+Potatoes  ID: 120 Price: 3.64 Stock Level: 50
+Penne Pasta  ID: 110 Price: 5.53 Stock Level: 40
+
+Index 1
+Sprite  ID: 151 Price: 2.36 Stock Level: 65
+Milk  ID: 141 Price: 4.53 Stock Level: 40
+Chicken  ID: 131 Price: 6.74 Stock Level: 35
+Bell Peppers  ID: 121 Price: 7.84 Stock Level: 25
+Oil  ID: 111 Price: 3.73 Stock Level: 65
+Lettuce  ID: 101 Price: 3.12 Stock Level: 25
+
+Index 2
+Chocolate Syrup  ID: 142 Price: 3.63 Stock Level: 75
+Zucchini  ID: 132 Price: 3.54 Stock Level: 30
+Macaroni Pasta  ID: 122 Price: 3.85 Stock Level: 40
+Guacamole  ID: 112 Price: 4.86 Stock Level: 3
+Burger Bun  ID: 102 Price: 4.85 Stock Level: 20
+
+Index 3
+Egg  ID: 143 Price: 4.75 Stock Level: 25
+Broccoli  ID: 133 Price: 3.53 Stock Level: 30
+Bread  ID: 123 Price: 4.34 Stock Level: 35
+Tomatoes  ID: 113 Price: 3.58 Stock Level: 8
+Tortilla  ID: 103 Price: 1.04 Stock Level: 3
+
+Index 4
+Water  ID: 144 Price: 1.42 Stock Level: 30
+Mayo  ID: 134 Price: 2.43 Stock Level: 35
+Bread Crumbs  ID: 124 Price: 2.54 Stock Level: 50
+Pickles  ID: 114 Price: 1.98 Stock Level: 30
+Cheese  ID: 104 Price: 3.77 Stock Level: 47
+
+Index 5
+Coca Cola  ID: 145 Price: 2.64 Stock Level: 70
+Vanilla Ice Cream  ID: 135 Price: 4.63 Stock Level: 30
+Artichoke  ID: 125 Price: 5.86 Stock Level: 29
+Croutons  ID: 115 Price: 2.85 Stock Level: 30
+Onions  ID: 105 Price: 3.37 Stock Level: 3
+
+Index 6
+Whipped Cream  ID: 146 Price: 2.64 Stock Level: 50
+Original Cheesecake  ID: 136 Price: 10.52 Stock Level: 30
+Sour Cream  ID: 126 Price: 4.63 Stock Level: 3
+Honey Mustard  ID: 116 Price: 4.08 Stock Level: 15
+Cucumber  ID: 106 Price: 5.89 Stock Level: 30
+
+Index 7
+Mint Leaves  ID: 147 Price: 2.53 Stock Level: 50
+Cherries  ID: 137 Price: 4.34 Stock Level: 30
+Spicy Marinara Sauce  ID: 127 Price: 6.63 Stock Level: 50
+Jalapenos  ID: 117 Price: 4.35 Stock Level: 30
+Turkey  ID: 107 Price: 7.33 Stock Level: 15
+
+Index 8
+Lemon  ID: 148 Price: 1.27 Stock Level: 5
+Butter  ID: 138 Price: 3.53 Stock Level: 35
+Ground Beef  ID: 128 Price: 7.02 Stock Level: 35
+Tortilla Chips  ID: 118 Price: 5.73 Stock Level: 19
+Spinach  ID: 108 Price: 4.75 Stock Level: 19
+
+Index 9
+Kiwi Syrup  ID: 149 Price: 3.52 Stock Level: 40
+Flour  ID: 139 Price: 3.64 Stock Level: 45
+Bacon  ID: 129 Price: 4.56 Stock Level: 40
+Black Olives  ID: 119 Price: 3.95 Stock Level: 30
+Black Beans  ID: 109 Price: 1.98 Stock Level: 30
+
+Transactions:
+Type: order, Name: Water, Amount: 40, Profit: $21.52, Was it a Success? true
+Type: order, Name: Spinach Artichoke Dip, Amount: 11, Profit: $44.24, Was it a Success? true
+Type: order, Name: Classic Chicken Sandwich, Amount: 27, Profit: $0.0, Was it a Success? false
+Type: order, Name: Fiesta Quesadillas, Amount: 27, Profit: $114.75, Was it a Success? true
+Type: order, Name: Sprite, Amount: 5, Profit: $2.36, Was it a Success? true
+Type: order, Name: The Scarlet Brownie Sundae, Amount: 57, Profit: $0.0, Was it a Success? false
+Type: order, Name: RU & OG Cheesecake, Amount: 57, Profit: $0.0, Was it a Success? false
+Total number of successful transactions: 4
+Total number of unsuccessful transactions: 3
+Total profit remaining: $182.87
+Tables and Parties:
+Empty -- leftQueueVar is empty
